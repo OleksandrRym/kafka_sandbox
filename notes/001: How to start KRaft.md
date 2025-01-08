@@ -51,11 +51,11 @@ Open 3 terminals and start the servers:
 ```bash
 kafka-server-start.sh ~/kafka_2.13-3.9.0/config/kraft/server.properties
 ```
-### 🖥️ **Terminal 1**
+### 🖥️ **Terminal 2**
 ```bash
 kafka-server-start.sh ~/kafka_2.13-3.9.0/config/kraft/server2.properties
 ```
-### 🖥️ **Terminal 1**
+### 🖥️ **Terminal 3**
 ```bash
 kafka-server-start.sh ~/kafka_2.13-3.9.0/config/kraft/server.3properties
 ```
